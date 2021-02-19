@@ -1,2 +1,0 @@
-# NavMeshLesson
-NavMesh Lesson
