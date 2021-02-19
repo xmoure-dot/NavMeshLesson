@@ -1,0 +1,24 @@
+newmtl Rocks
+Kd 0.7254902 0.7176471 0.654902
+d 1
+
+newmtl Balls
+Kd 1 0.8000001 0.3607843
+d 1
+
+newmtl green
+Kd 0.1647059 0.6156863 0.5607843
+d 1
+
+newmtl Stairs
+Kd 0.4862745 0.5647059 0.627451
+d 1
+
+newmtl MateBlue
+Kd 0.09019608 0.2470588 0.372549
+d 1
+
+newmtl Red
+Kd 0.9294118 0.3333333 0.2313726
+d 1
+
